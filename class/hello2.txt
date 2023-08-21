@@ -1,1 +1,3 @@
 第二個程式
+
+print("Holle Python "*3)
